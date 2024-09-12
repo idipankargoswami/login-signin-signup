@@ -147,7 +147,7 @@ img{
 }
 
 .login__button{
-  display: block;
+  /* display: block; */
   padding: 1rem;
   margin: 2rem 0;
   background-color: var(--first-color);
